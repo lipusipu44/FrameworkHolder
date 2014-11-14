@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="L-ANILKUMAR-ILB" name="GoogleTest.GoogleBasicElementTest" tests="1" failures="0" timestamp="13 Nov 2014 09:17:11 GMT" time="10.519" errors="0">
+  <testcase name="gmailElementSearch" time="6.51" classname="GoogleTest.GoogleBasicElementTest"/>
+</testsuite>
