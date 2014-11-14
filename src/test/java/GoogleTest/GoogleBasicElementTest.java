@@ -17,6 +17,7 @@ public class GoogleBasicElementTest {
 
 	@Test
 	public void gmailElementSearch() throws Exception{
+		//opening google page
 		driver.get("http://www.google.com");
 		Thread.sleep(5000);
 		
